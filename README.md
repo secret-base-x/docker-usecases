@@ -45,4 +45,3 @@ The exaplanation of the updated code (Thanks to CHAT-GPT)
 - This command is commonly used in Dockerfile as a part of installing dependencies for building software, in this case, a C++ application,
 
 - By including this command in the Dockerfile, you can ensure that your C++ application has all the necessary dependencies and tools to build and run correctly in the container.
-```
