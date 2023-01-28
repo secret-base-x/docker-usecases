@@ -18,7 +18,7 @@ int main() {
 
 We can create Dockerfile in this same folder to describe how we want to run this.
 
-```
+```dockerfile
 FROM ubuntu:latest
 
 RUN apt-get update && apt-get install -y build-essential
